@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dweap_Project/static/css/main.21d2fb15.css",
+    "main.js": "/Dweap_Project/static/js/main.8f13239c.js",
+    "static/js/787.d3befce1.chunk.js": "/Dweap_Project/static/js/787.d3befce1.chunk.js",
+    "static/media/Vector.png": "/Dweap_Project/static/media/Vector.d67f640afcaba3ec3ba0.png",
+    "index.html": "/Dweap_Project/index.html",
+    "main.21d2fb15.css.map": "/Dweap_Project/static/css/main.21d2fb15.css.map",
+    "main.8f13239c.js.map": "/Dweap_Project/static/js/main.8f13239c.js.map",
+    "787.d3befce1.chunk.js.map": "/Dweap_Project/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d2fb15.css",
+    "static/js/main.8f13239c.js"
+  ]
+}
